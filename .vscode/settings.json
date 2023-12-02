@@ -1,0 +1,7 @@
+{
+    "editor.accessibilitySupport": "off",
+    "notebook.compactView": false,
+    "notebook.formatOnCellExecution": true,
+    "notebook.formatOnSave.enabled": true,
+    "notebook.outline.showCodeCells": true
+}
